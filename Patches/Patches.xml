@@ -1,0 +1,47 @@
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/HediffGiverSetDef[defName = "OrganicStandard"]/hediffGivers</xpath>
+        <value>
+			<li Class="HediffGiver_Birthday">
+				<hediff>Blindness</hediff>
+				<partsToAffect>
+					<li>Eye</li>
+				</partsToAffect>
+				<countToAffect>2</countToAffect>
+				<ageFractionChanceCurve>
+					<points>
+						<li>(0.25, 0)</li>
+						<li>(0.42, 0.0006)</li>
+						<li>(0.7,  0.00305)</li>
+						<li>(0.9,  0.006)</li>
+						<li>(1,    0.01)</li>
+						<li>(1.5,  0.025)</li>
+					</points>
+				</ageFractionChanceCurve>
+			</li>
+			<li Class="HediffGiver_Birthday">
+				<hediff>Deafness</hediff>
+				<partsToAffect>
+					<li>Ear</li>
+				</partsToAffect>
+				<countToAffect>2</countToAffect>
+				<ageFractionChanceCurve>
+					<points>
+						<li>(0.25, 0)</li>
+						<li>(0.42, 0.0012)</li>
+						<li>(0.7,  0.0061)</li>
+						<li>(0.9,  0.012)</li>
+						<li>(1,    0.02)</li>
+						<li>(1.5,  0.05)</li>
+					</points>
+				</ageFractionChanceCurve>
+			</li>
+        </value>
+    </Operation>
+	<Operation Class="PatchOperationRemove">
+        <xpath>/Defs/HediffGiverSetDef[defName = "OrganicStandard"]/hediffGivers/li[9]</xpath>
+	</Operation>
+	<Operation Class="PatchOperationRemove">
+        <xpath>/Defs/HediffGiverSetDef[defName = "OrganicStandard"]/hediffGivers/li[9]</xpath>
+	</Operation>
+</Patch>

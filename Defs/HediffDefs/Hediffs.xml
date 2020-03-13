@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<HediffDef ParentName="DiseaseBase">
+		<defName>Blindness</defName>
+		<label>Blindness</label>
+		<description>Blindness</description>
+		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
+		<stages>
+			<li>
+				<label>negligible</label>
+				<partEfficiencyOffset>-0.05</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>minimal</label>
+				<minSeverity>0.05</minSeverity>
+				<partEfficiencyOffset>-0.1</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>very mild</label>
+				<minSeverity>0.1</minSeverity>
+				<partEfficiencyOffset>-0.15</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>mild</label>
+				<minSeverity>0.2</minSeverity>
+				<partEfficiencyOffset>-0.25</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>moderate</label>
+				<minSeverity>0.3</minSeverity>
+				<partEfficiencyOffset>-0.4</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>significant</label>
+				<minSeverity>0.5</minSeverity>
+				<partEfficiencyOffset>-0.55</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>severe</label>
+				<minSeverity>0.7</minSeverity>
+				<partEfficiencyOffset>-0.75</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>profound</label>
+				<minSeverity>0.90</minSeverity>
+				<partEfficiencyOffset>-0.999999</partEfficiencyOffset>
+			</li>
+		</stages>
+		<comps>
+			<li Class="HediffCompProperties_Immunizable">
+				<severityPerDayNotImmune>0.03</severityPerDayNotImmune>
+				<severityPerDayNotImmuneRandomFactor>
+					<min>0.05</min>
+					<max>1</max>
+				</severityPerDayNotImmuneRandomFactor>
+			</li>
+		</comps>
+	</HediffDef>
+	
+	<HediffDef ParentName="DiseaseBase">
+		<defName>Deafness</defName>
+		<label>Deafness</label>
+		<description>Deafness</description>
+		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
+		<stages>
+			<li>
+				<label>negligible</label>
+				<partEfficiencyOffset>-0.05</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>minimal</label>
+				<minSeverity>0.05</minSeverity>
+				<partEfficiencyOffset>-0.1</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>very mild</label>
+				<minSeverity>0.1</minSeverity>
+				<partEfficiencyOffset>-0.15</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>mild</label>
+				<minSeverity>0.2</minSeverity>
+				<partEfficiencyOffset>-0.25</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>moderate</label>
+				<minSeverity>0.3</minSeverity>
+				<partEfficiencyOffset>-0.4</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>significant</label>
+				<minSeverity>0.5</minSeverity>
+				<partEfficiencyOffset>-0.55</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>severe</label>
+				<minSeverity>0.7</minSeverity>
+				<partEfficiencyOffset>-0.75</partEfficiencyOffset>
+			</li>
+			<li>
+				<label>profound</label>
+				<minSeverity>0.90</minSeverity>
+				<partEfficiencyOffset>-0.999999</partEfficiencyOffset>
+			</li>
+		</stages>
+		<comps>
+			<li Class="HediffCompProperties_Immunizable">
+				<severityPerDayNotImmune>0.03</severityPerDayNotImmune>
+				<severityPerDayNotImmuneRandomFactor>
+					<min>0.05</min>
+					<max>1</max>
+				</severityPerDayNotImmuneRandomFactor>
+			</li>
+		</comps>
+		
+	</HediffDef>
+	
+</Defs>
