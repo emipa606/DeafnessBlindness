@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Blindness.label>Cécité</Blindness.label>
+  <Blindness.description>Cécité</Blindness.description>
+  <Blindness.stages.0.label>négligeable</Blindness.stages.0.label>
+  <Blindness.stages.1.label>minime</Blindness.stages.1.label>
+  <Blindness.stages.2.label>vraiment bénin</Blindness.stages.2.label>
+  <Blindness.stages.3.label>bénin</Blindness.stages.3.label>
+  <Blindness.stages.4.label>modérée</Blindness.stages.4.label>
+  <Blindness.stages.5.label>importante</Blindness.stages.5.label>
+  <Blindness.stages.6.label>sévère</Blindness.stages.6.label>
+  <Blindness.stages.7.label>profonde</Blindness.stages.7.label>
+  <Deafness.label>Deafness</Deafness.label>
+  <Deafness.description>Surdité</Deafness.description>
+  <Deafness.stages.0.label>négligeable</Deafness.stages.0.label>
+  <Deafness.stages.1.label>minime</Deafness.stages.1.label>
+  <Deafness.stages.2.label>vraiment bénin</Deafness.stages.2.label>
+  <Deafness.stages.3.label>bénin</Deafness.stages.3.label>
+  <Deafness.stages.4.label>modérée</Deafness.stages.4.label>
+  <Deafness.stages.5.label>importante</Deafness.stages.5.label>
+  <Deafness.stages.6.label>sévère</Deafness.stages.6.label>
+  <Deafness.stages.7.label>profonde</Deafness.stages.7.label>
+</LanguageData>

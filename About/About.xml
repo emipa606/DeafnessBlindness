@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Deafness and Blindness (Continued)</name>
   <packageId>Mlie.DeafnessBlindness</packageId>
@@ -11,26 +11,36 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Emmotes mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Emmotes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1261511017
 
-Support-chat:
-https://discord.gg/SuhwVpM
+- Changes Blindness and deafness to appear gradually
 
-Non-steam version:
-https://github.com/emipa606/DeafnessBlindness
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/DeafnessBlindness][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-I was kind of annoyed that the only hearing/sight loss conditions this game had (without removing body parts) was the vanilla 'Hearing Loss' and 'Cataracts' conditions which are both a flat -50% loss. It seemed weird that someone would suddenly lose half their hearing or sight immediately, and it stay that way forever.
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-So, what I've done is remove the vanilla conditions 'Hearing Loss' and 'Cataracts' and added my own 'Deafness' and 'Blindness' conditions which are both progressive.
+See this mod instead: (Not made by me)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2019740307
 
-They are currently both age related conditions and once either condition activates, they will start as 'negligible' -5% loss, going through 'minimal' (-10%), 'very mild' (-15%), 'mild' (-25%), 'moderate' (-40%), 'significant' (-55%), 'severe' (-75%) and 'profound' (-100%).
 
-The time it takes for the conditions to become profound is now random. The quickest they can progress is 0.5 in-game years and the longest is 10 in-game years. Because of the randomness you may find one eye or ear progressing at a faster rate than the other.
-
-Of course, performing surgery to replace the eyes or ears of someone with these conditions should heal that individual body part. They can possibly get the condition again in the future if you have given them a natural eye/ear.
-Also, this works with Prepare Carefully, allowing you to add a condition to your starting characters at a specific severity.
-
-I'm open to suggestions as to rebalancing how common the conditions are as well as how quickly they progress, etc., so feel free to comment.</description>
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
