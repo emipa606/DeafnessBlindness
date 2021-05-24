@@ -6,6 +6,7 @@ Update of Emmotes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1261511017
 
 - Changes Blindness and deafness to appear gradually
+- French translation added, thanks qux!
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
@@ -36,6 +37,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2019740307
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
