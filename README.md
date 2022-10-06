@@ -1,6 +1,6 @@
 # DeafnessBlindness
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Emmotes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1261511017
@@ -8,26 +8,17 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1261511017
 - Changes Blindness and deafness to appear gradually
 - French translation added, thanks qux!
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/DeafnessBlindness]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 See this mod instead: (Not made by me)
 https://steamcommunity.com/sharedfiles/filedetails/?id=2019740307
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
