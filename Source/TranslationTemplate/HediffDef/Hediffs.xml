@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Blindness -->
+  <Blindness.label>Blindness</Blindness.label>
+  <!-- EN: Blindness -->
+  <Blindness.description>Blindness</Blindness.description>
+  <!-- EN: negligible -->
+  <Blindness.stages.negligible.label>negligible</Blindness.stages.negligible.label>
+  <!-- EN: minimal -->
+  <Blindness.stages.minimal.label>minimal</Blindness.stages.minimal.label>
+  <!-- EN: very mild -->
+  <Blindness.stages.very_mild.label>very mild</Blindness.stages.very_mild.label>
+  <!-- EN: mild -->
+  <Blindness.stages.mild.label>mild</Blindness.stages.mild.label>
+  <!-- EN: moderate -->
+  <Blindness.stages.moderate.label>moderate</Blindness.stages.moderate.label>
+  <!-- EN: significant -->
+  <Blindness.stages.significant.label>significant</Blindness.stages.significant.label>
+  <!-- EN: severe -->
+  <Blindness.stages.severe.label>severe</Blindness.stages.severe.label>
+  <!-- EN: profound -->
+  <Blindness.stages.profound.label>profound</Blindness.stages.profound.label>
+  <!-- EN: Deafness -->
+  <Deafness.label>Deafness</Deafness.label>
+  <!-- EN: Deafness -->
+  <Deafness.description>Deafness</Deafness.description>
+  <!-- EN: negligible -->
+  <Deafness.stages.negligible.label>negligible</Deafness.stages.negligible.label>
+  <!-- EN: minimal -->
+  <Deafness.stages.minimal.label>minimal</Deafness.stages.minimal.label>
+  <!-- EN: very mild -->
+  <Deafness.stages.very_mild.label>very mild</Deafness.stages.very_mild.label>
+  <!-- EN: mild -->
+  <Deafness.stages.mild.label>mild</Deafness.stages.mild.label>
+  <!-- EN: moderate -->
+  <Deafness.stages.moderate.label>moderate</Deafness.stages.moderate.label>
+  <!-- EN: significant -->
+  <Deafness.stages.significant.label>significant</Deafness.stages.significant.label>
+  <!-- EN: severe -->
+  <Deafness.stages.severe.label>severe</Deafness.stages.severe.label>
+  <!-- EN: profound -->
+  <Deafness.stages.profound.label>profound</Deafness.stages.profound.label>
+</LanguageData>
